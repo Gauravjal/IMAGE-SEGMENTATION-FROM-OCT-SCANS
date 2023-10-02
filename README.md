@@ -6,4 +6,7 @@ Our eyes contain numerous tiny blood vessels in the retina, known as retinal cap
 
 
 
+
+This is the sample of the ouput:
+
 ![image_834](https://github.com/Gauravjal/IMAGE-SEGMENTATION-FROM-OCT-SCANS/assets/91470651/7426778b-e1fa-40c1-a57e-901f0d06b9a2)
